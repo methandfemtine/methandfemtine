@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm kai</h1>
-<h3 align="center">a programmer</h3>
+<h3 align="center">Im a programmer, artist, and many other things!</h3>
 
 - 🔭 I’m currently working on [Mastering c#!]()
 
@@ -12,4 +12,4 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 
 <h3 align="left">My Links!</h3>
-<p align="left"> <a href="https://discord.gg/novagang" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1366267896183128155/1366267978080981135/NOVA_GANG.png?ex=681053b6&is=680f0236&hm=13672e96e0e859d6f048252e5571d134610da9d8721edb67483f8dda98699346&" alt="novagang" width="40" height="40"/>
+<p align="left"> <a href="https://discord.gg/novagang" target="_blank" rel="noreferrer"> <img src="https://newsroom.spotify.com/media-kit/logo-and-brand-assets/" alt="novagang" width="40" height="40"/>
